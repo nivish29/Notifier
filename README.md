@@ -1,4 +1,4 @@
-# geomod
+# Notifier
 
 A new Flutter project.
 
